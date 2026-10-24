@@ -24,7 +24,6 @@
   preferences_keybindings = ""
 [profiles]
   [[default]]
-    cursor_color = "#aaaaaa"
     show_titlebar = False
     scrollbar_position = hidden
     login_shell = True
